@@ -17,7 +17,6 @@ Bu proje, kullanıcının girdiği yarıçap değerine göre dairenin **alanın�
 - Java  
 - Eclipse IDE
 
-## 💻 Örnek Çalışma
-Kullanıcıdan yarıçap: 5  
 
-Çıktı:  
+
+ 
